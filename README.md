@@ -1,1 +1,0 @@
-# SQL_Movies_IMDB_Analysis
